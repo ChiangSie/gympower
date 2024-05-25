@@ -1,0 +1,13 @@
+@mixin col($value) {
+    @for $i from 1 through $value {
+        .col#{$value}-#{$i} {
+            width: math.div($i , $value) * 100%;
+        }
+    }
+}
+
+@include col(3);
+@include col(5);
+@include col(7);
+@include col(10);
+@include col(12);
