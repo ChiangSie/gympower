@@ -40,5 +40,37 @@ nav{
 }
 
 .container{
+
     display: flex;
+    gap: $gap;
+    .aside{
+        width: calc(40% - 7.5px);
+        height: 100%;
+        gap: $gap;
+
+        div:nth-child(1){
+            width: 100%;
+        }
+        div:nth-child(2){
+            width: calc(33.333333% - 10px);
+        }
+        div:nth-child(3){
+            width: calc(33.333333% - 10px);
+        }
+        div:nth-child(4){
+            width: calc(33.333333% - 10px);
+        }
+    }
+
+    .main-part{
+        width: calc(60% - 7.5px);
+
+        .main-part-title{
+            width: 100%;
+            height: 50px;
+
+            
+        }
+    }
+
 }
