@@ -1,0 +1,325 @@
+.col-12-1 {
+  width: 8.3333333333%;
+}
+
+.col-12-2 {
+  width: 16.6666666667%;
+}
+
+.col-12-3 {
+  width: 25%;
+}
+
+.col-12-4 {
+  width: 33.3333333333%;
+}
+
+.col-12-5 {
+  width: 41.6666666667%;
+}
+
+.col-12-6 {
+  width: 50%;
+}
+
+.col-12-7 {
+  width: 58.3333333333%;
+}
+
+.col-12-8 {
+  width: 66.6666666667%;
+}
+
+.col-12-9 {
+  width: 75%;
+}
+
+.col-12-10 {
+  width: 83.3333333333%;
+}
+
+.col-12-11 {
+  width: 91.6666666667%;
+}
+
+.col-12-12 {
+  width: 100%;
+}
+
+.col-11-1 {
+  width: 9.0909090909%;
+}
+
+.col-11-2 {
+  width: 18.1818181818%;
+}
+
+.col-11-3 {
+  width: 27.2727272727%;
+}
+
+.col-11-4 {
+  width: 36.3636363636%;
+}
+
+.col-11-5 {
+  width: 45.4545454545%;
+}
+
+.col-11-6 {
+  width: 54.5454545455%;
+}
+
+.col-11-7 {
+  width: 63.6363636364%;
+}
+
+.col-11-8 {
+  width: 72.7272727273%;
+}
+
+.col-11-9 {
+  width: 81.8181818182%;
+}
+
+.col-11-10 {
+  width: 90.9090909091%;
+}
+
+.col-11-11 {
+  width: 100%;
+}
+
+.col-10-1 {
+  width: 10%;
+}
+
+.col-10-2 {
+  width: 20%;
+}
+
+.col-10-3 {
+  width: 30%;
+}
+
+.col-10-4 {
+  width: 40%;
+}
+
+.col-10-5 {
+  width: 50%;
+}
+
+.col-10-6 {
+  width: 60%;
+}
+
+.col-10-7 {
+  width: 70%;
+}
+
+.col-10-8 {
+  width: 80%;
+}
+
+.col-10-9 {
+  width: 90%;
+}
+
+.col-10-10 {
+  width: 100%;
+}
+
+.col-9-1 {
+  width: 11.1111111111%;
+}
+
+.col-9-2 {
+  width: 22.2222222222%;
+}
+
+.col-9-3 {
+  width: 33.3333333333%;
+}
+
+.col-9-4 {
+  width: 44.4444444444%;
+}
+
+.col-9-5 {
+  width: 55.5555555556%;
+}
+
+.col-9-6 {
+  width: 66.6666666667%;
+}
+
+.col-9-7 {
+  width: 77.7777777778%;
+}
+
+.col-9-8 {
+  width: 88.8888888889%;
+}
+
+.col-9-9 {
+  width: 100%;
+}
+
+.col-8-1 {
+  width: 12.5%;
+}
+
+.col-8-2 {
+  width: 25%;
+}
+
+.col-8-3 {
+  width: 37.5%;
+}
+
+.col-8-4 {
+  width: 50%;
+}
+
+.col-8-5 {
+  width: 62.5%;
+}
+
+.col-8-6 {
+  width: 75%;
+}
+
+.col-8-7 {
+  width: 87.5%;
+}
+
+.col-8-8 {
+  width: 100%;
+}
+
+.col-6-1 {
+  width: 16.6666666667%;
+}
+
+.col-6-2 {
+  width: 33.3333333333%;
+}
+
+.col-6-3 {
+  width: 50%;
+}
+
+.col-6-4 {
+  width: 66.6666666667%;
+}
+
+.col-6-5 {
+  width: 83.3333333333%;
+}
+
+.col-6-6 {
+  width: 100%;
+}
+
+.col-5-1 {
+  width: 20%;
+}
+
+.col-5-2 {
+  width: 40%;
+}
+
+.col-5-3 {
+  width: 60%;
+}
+
+.col-5-4 {
+  width: 80%;
+}
+
+.col-5-5 {
+  width: 100%;
+}
+
+.col-4-1 {
+  width: 25%;
+}
+
+.col-4-2 {
+  width: 50%;
+}
+
+.col-4-3 {
+  width: 75%;
+}
+
+.col-4-4 {
+  width: 100%;
+}
+
+.col-3-1 {
+  width: 33.3333333333%;
+}
+
+.col-3-2 {
+  width: 66.6666666667%;
+}
+
+.col-3-3 {
+  width: 100%;
+}
+
+.col-2-1 {
+  width: 50%;
+}
+
+.col-2-2 {
+  width: 100%;
+}
+
+h1 {
+  font-size: 40px;
+  line-height: 60px;
+  letter-spacing: 0.4px;
+  font-weight: 400;
+}
+
+h2 {
+  font-size: 24px;
+  line-height: 36px;
+  letter-spacing: 0.24px;
+  font-weight: 400;
+}
+
+h3 {
+  font-size: 20px;
+  line-height: 30px;
+  letter-spacing: 0.2px;
+  font-weight: 400;
+}
+
+h4 {
+  font-size: 18px;
+  line-height: 27px;
+  letter-spacing: 0.18px;
+  font-weight: 400;
+}
+
+p {
+  font-size: 40px;
+  line-height: 60px;
+  letter-spacing: 0.4px;
+  font-weight: 400;
+}
+
+a {
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.16px;
+  font-weight: 400;
+}
+
+body {
+  font-family: garamond;
+}/*# sourceMappingURL=style.css.map */
